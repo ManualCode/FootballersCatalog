@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Kirill\\source\\repos\\FootballersCatalog\\FootballersCatalog\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D89F3325-5DE0-44AC-B29B-36C6E6E52929}|FootballersCatalog.API\\FootballersCatalog.API.csproj|c:\\users\\kirill\\source\\repos\\footballerscatalog\\footballerscatalog\\footballerscatalog.api\\footballerscatalog.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D89F3325-5DE0-44AC-B29B-36C6E6E52929}|FootballersCatalog.API\\FootballersCatalog.API.csproj|solutionrelative:footballerscatalog.api\\footballerscatalog.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FootballersCatalog.API",
+              "DocumentMoniker": "C:\\Users\\Kirill\\source\\repos\\FootballersCatalog\\FootballersCatalog\\FootballersCatalog.API\\FootballersCatalog.API.csproj",
+              "RelativeDocumentMoniker": "FootballersCatalog.API\\FootballersCatalog.API.csproj",
+              "ToolTip": "C:\\Users\\Kirill\\source\\repos\\FootballersCatalog\\FootballersCatalog\\FootballersCatalog.API\\FootballersCatalog.API.csproj",
+              "RelativeToolTip": "FootballersCatalog.API\\FootballersCatalog.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-02T18:44:19.609Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
